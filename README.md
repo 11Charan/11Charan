@@ -99,8 +99,7 @@ A Python-based project exploring intelligent tools and AI-assisted workflows.
 
 I'm interested in opportunities and collaborations involving **software development, game technology, XR, computer graphics, AI, and creative technology**.
 
-**LinkedIn:** Add your LinkedIn URL here
-**Portfolio:** Add your portfolio URL here
+💼 [LinkedIn — Sricharan Sureshkumar](https://www.linkedin.com/in/sricharan-sureshkumar-2b9b97133/)
 
 ---
 
