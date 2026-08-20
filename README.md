@@ -87,14 +87,6 @@ A Python-based project exploring intelligent tools and AI-assisted workflows.
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=11Charan\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=11Charan\&layout=compact\&hide_border=true\&theme=transparent)
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in opportunities and collaborations involving **software development, game technology, XR, computer graphics, AI, and creative technology**.
