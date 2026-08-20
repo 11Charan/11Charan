@@ -1,20 +1,34 @@
 # Hey, I'm Sricharan 👋
 
-### Creative Developer • Software Engineer • 3D & Real-Time Graphics
+### Software Engineer • Creative Developer • XR & Real-Time Graphics
 
-I build projects at the intersection of **software development, real-time graphics, AI, and digital media**.
+I build interactive software and digital experiences across **software development, virtual reality, real-time graphics, AI, and 3D media**.
 
-Currently exploring **game development, XR, procedural generation, computer graphics, and AI-assisted creative workflows**.
+My work ranges from **VR interaction systems and procedural graphics** to **full-stack applications, blockchain, and creative media production**.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🪆 Voodoo Doll VR
+
+**Miniature-proxy interaction technique for Virtual Reality**
+
+A VR interaction system built with **Godot 4 and OpenXR** that allows users to select full-size virtual objects and interact with them through miniature representations.
+
+Features ray-based object selection, dynamic miniature generation, real-time property synchronization, object resizing, color manipulation, and VR controller interaction.
+
+`Godot 4` `GDScript` `OpenXR` `VR` `XR` `3D Interaction`
+
+→ [View Voodoo Doll VR](https://github.com/11Charan/voodoo-doll-vr)
+
+---
+
 ### 🏔️ TerraForge
 
 **Real-time procedural terrain generation with adaptive Level of Detail**
 
-A procedural terrain system focused on real-time generation, performance, and scalable world rendering.
+A procedural terrain system focused on real-time generation, performance, scalable world rendering, and adaptive LOD.
 
 `Unity` `C#` `URP` `Procedural Generation` `LOD`
 
@@ -22,11 +36,11 @@ A procedural terrain system focused on real-time generation, performance, and sc
 
 ---
 
-### 🔐 Decentralized Escrow Platform — Bachelor Thesis
+### 🔐 Decentralized Escrow Platform
 
-**Blockchain-based escrow for transactions between untrusted parties**
+**Bachelor Thesis — Blockchain-based escrow for transactions between untrusted parties**
 
-A decentralized application designed to enable secure transactions without requiring the participants to trust each other or rely on a traditional intermediary.
+A decentralized application designed to enable secure transactions without requiring participants to trust each other or rely on a traditional intermediary.
 
 `Blockchain` `JavaScript` `Web Development` `Smart Contracts`
 
@@ -36,7 +50,7 @@ A decentralized application designed to enable secure transactions without requi
 
 ### 🚴 RideFrame
 
-**AI-enhanced cycling helmet commercial**
+**3D & AI-enhanced cycling helmet commercial**
 
 A creative media production project combining live-action footage, 3D visualization, AI-generated imagery, motion graphics, and post-production.
 
@@ -48,6 +62,8 @@ A creative media production project combining live-action footage, 3D visualizat
 
 ### 🧠 SlideMind
 
+**AI-assisted presentation and productivity project**
+
 A Python-based project exploring intelligent tools and AI-assisted workflows.
 
 `Python` `AI`
@@ -58,40 +74,40 @@ A Python-based project exploring intelligent tools and AI-assisted workflows.
 
 ## 🛠️ Tech Stack
 
-**Programming**
+### 💻 Programming
 
 `C#` `Python` `JavaScript` `TypeScript` `GDScript`
 
-**Game Development & Real-Time Graphics**
+### 🎮 Game Development & Real-Time Graphics
 
-`Unity` `Godot` `OpenXR` `Procedural Generation`
+`Unity` `Godot` `OpenXR` `VR/XR` `Procedural Generation`
 
-**3D & Creative**
-
-`Blender` `Cinema 4D` `DaVinci Resolve`
-
-**Web & Tools**
+### 🌐 Web Development
 
 `React` `Node.js` `Git` `GitHub`
 
+### 🎨 3D & Creative
+
+`Blender` `Cinema 4D` `DaVinci Resolve` `Motion Tracking` `3D Rendering`
+
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Areas of Interest
 
-* 🥽 XR & immersive interaction
-* 🎮 Game development with Godot & Unity
-* 🌍 Procedural world generation
-* 🧠 AI-assisted applications
-* 🎨 Real-time computer graphics
-* 🎬 3D & digital media production
+🥽 **XR & Immersive Interaction**
+🎮 **Game Development**
+🌍 **Procedural Generation**
+🎨 **Real-Time Computer Graphics**
+🧠 **AI-Assisted Applications**
+🎬 **3D & Digital Media Production**
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in opportunities and collaborations involving **software development, game technology, XR, computer graphics, AI, and creative technology**.
+I'm open to opportunities and collaborations involving **software engineering, XR, game technology, computer graphics, AI, and creative technology**.
 
-💼 [LinkedIn — Sricharan Sureshkumar](https://www.linkedin.com/in/sricharan-sureshkumar-2b9b97133/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sricharan%20Sureshkumar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sricharan-sureshkumar-2b9b97133/)
 
 ---
 
